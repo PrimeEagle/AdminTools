@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminUtils", "http://localhost/AdminUtils/AdminUtils.csproj", "{17611E82-AB3A-400A-AE48-BB3C67795FC3}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{17611E82-AB3A-400A-AE48-BB3C67795FC3}.Debug.ActiveCfg = Debug|.NET
+		{17611E82-AB3A-400A-AE48-BB3C67795FC3}.Debug.Build.0 = Debug|.NET
+		{17611E82-AB3A-400A-AE48-BB3C67795FC3}.Release.ActiveCfg = Release|.NET
+		{17611E82-AB3A-400A-AE48-BB3C67795FC3}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
